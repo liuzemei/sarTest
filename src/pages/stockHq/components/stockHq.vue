@@ -314,9 +314,9 @@ export default {
 
   data() {
     return {
-      Symbol: "ETH/BTC.bit",
+      Symbol: "BTC/USDT.bit",
       Name: "",
-      PairName: "ETH/BTC", //货币代码
+      PairName: "BTC/USDT", //货币代码
       FloatPrecision: 6, //品种的小数位数
 
       //K线
