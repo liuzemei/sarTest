@@ -317,7 +317,7 @@ export default {
       Symbol: "ETH/BTC.bit",
       Name: "",
       PairName: "ETH/BTC", //货币代码
-      FloatPrecision: 2, //品种的小数位数
+      FloatPrecision: 6, //品种的小数位数
 
       //K线
       KLine: {
