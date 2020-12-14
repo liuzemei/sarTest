@@ -139,6 +139,7 @@ DefaultData.GetKlineOption = function()
         [
             { Index: "均线", Modify:false, Change:false },
             { Index: "VOL", Modify:false, Change:false },
+            { Index: "SAR", Modify:false, Change:false },
         ],
         //Symbol: '600000.sh',
         IsAutoUpdate: true,
